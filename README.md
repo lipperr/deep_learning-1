@@ -1,1 +1,1 @@
-# deep_learning-1
+# HWs for DL-1 at HSE
